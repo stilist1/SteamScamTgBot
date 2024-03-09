@@ -30,7 +30,7 @@ To run this bot, you need to obtain an API key from BotFazer and include a fake 
 4. Set the path to your skins folder:
 
     ```python
-    skins_folder = 'skins'  # path to your skins folder
+    skins_folder = 'skins'
     ```
 
 5. Update the fake trade link in the `/rolle` command handler:
